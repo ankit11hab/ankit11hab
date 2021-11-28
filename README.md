@@ -1,5 +1,5 @@
 <hr>
-<h3>Hello, I am ---:  Ankit  :---</h3>
+<h3>Hello, I am ━:  Ankit  :━</h3>
 <div>Simple | Eccentric | Patient</div>
 
 <h3>About me:</h3>
