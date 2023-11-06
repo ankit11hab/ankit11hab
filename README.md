@@ -4,9 +4,8 @@
 
 <h3>About me:</h3>
 
-- Sophomore at IIT Guwahati.
-- Passionate about Web and App development, have explored ML a bit.
-- Currently working on an exam web-app.
+- Final yearite at IIT Guwahati.
+- Passionate about development, have explored ML a bit.
 - Feel free to reach me out for an interesting discussion
 
 
